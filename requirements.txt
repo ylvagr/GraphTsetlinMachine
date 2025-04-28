@@ -1,0 +1,12 @@
+GraphTsetlinMachine @ file:///home/coder/GraphTsetlinMachine/dist/graphtsetlinmachine-0.3.3.tar.gz#sha256=aefcee79fa3d5cce69e953bfe37b2f5769e189cb4ec177d1bdfdfbdcf2a187c2
+numpy==2.1.3
+numba==0.61.2
+scipy==1.15.2
+pycuda==2025.1
+scikit-image==0.25.2
+scikit-learn==1.6.1
+keras==3.9.2
+tensorflow==2.19.0
+opencv-python-headless==4.11.0.86
+matplotlib==3.10.1
+seaborn==0.13.2
